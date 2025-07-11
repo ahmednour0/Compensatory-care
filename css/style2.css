@@ -37,6 +37,7 @@
             color: #2d3436 !important;
             font-weight: 500;
             margin: 0 0.5rem;
+             text-align: center;
         }
         
         .btn-cart {
@@ -236,10 +237,3 @@
             color: #8B7ED8;
             transform: scale(1.1);
         }
-
-
-
-
-
-
-
